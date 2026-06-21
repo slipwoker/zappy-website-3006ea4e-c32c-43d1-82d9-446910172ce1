@@ -1,0 +1,105 @@
+# YONO — Generative Engine Optimization Map
+
+> An e-commerce dropshipping store specializing in swimwear for both men and women. The brand focuses on online retail without holding inventory, offering a curated selection of swimwear styles. The store targets a broad audience of male and female shoppers looking for beachwear and swimwear products.
+
+---
+
+## Pages
+
+### בית
+https://yono-3006ea4e.zappy5.app
+חנות בגדי ים אונליין לגברים ונשים עם מבחר סגנונות מעודכן. כנסו עכשיו לפתיחת חשבון yono sbi account opening קלה ומהירה וגלו קולקציה שלא תמצאו בשום מקום אחר.
+
+### אודות
+https://yono-3006ea4e.zappy5.app/about
+YONO הוא מותג בגדי ים דיגיטלי שמציע חוויית קנייה חכמה ללא מלאי. גלו איך yono sbi personal loan יכול לעזור לכם לממש את הסגנון המושלם ולהצטרף למהפכת האופנה שלנו.
+
+### גלריית מערכת
+https://yono-3006ea4e.zappy5.app/editorial-gallery
+גלריית מערכת בלעדית עם השראות סטיילינג לחוף הים. הורידו yono sbi download כדי לקבל גישה מיידית למראות הכי עדכניים ולבחור את הלוק שיהפוך אתכם לכוכבי החוף.
+
+### צור קשר
+https://yono-3006ea4e.zappy5.app/contact
+צריכים עזרה בבחירת בגד הים המושלם? צרו קשר עכשיו וגלו איך yono sbi account opening online פותח לכם דלת לעולם של סטייל, נוחות ושירות ללא תחרות.
+
+### Products
+https://yono-3006ea4e.zappy5.app/products
+המוצרים שלנו - YONO
+
+### Cart
+https://yono-3006ea4e.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://yono-3006ea4e.zappy5.app/checkout
+תשלום
+
+### Login
+https://yono-3006ea4e.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://yono-3006ea4e.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://yono-3006ea4e.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://yono-3006ea4e.zappy5.app/product/:slug
+פרטי המוצר - YONO
+
+### Category
+https://yono-3006ea4e.zappy5.app/category/:slug
+מוצרים - YONO
+
+### תודה רבה | YONO
+https://yono-3006ea4e.zappy5.app/thank-you
+תודה על פנייתך. קיבלנו את הודעתך ונחזור אליך בהקדם. למידע נוסף על yono sbi account opening המשיכו לגלוש באתר.
+
+## Legal & Policy
+
+### Privacy Policy
+https://yono-3006ea4e.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://yono-3006ea4e.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://yono-3006ea4e.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About YONO
+An e-commerce dropshipping store specializing in swimwear for both men and women. The brand focuses on online retail without holding inventory, offering a curated selection of swimwear styles. The store targets a broad audience of male and female shoppers looking for beachwear and swimwear products.
+
+## Target Audience
+- נשים וגברים
+- חובבי חוף צעירים
+- נשים אופנתיות
+- שחיינים פעילים
+
+## Industry
+E-commerce / Fashion / Swimwear
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://yono-3006ea4e.zappy5.app/sitemap.xml
+- Robots: https://yono-3006ea4e.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://yono-3006ea4e.zappy5.app/llms-full.txt
+- Products (JSON): https://yono-3006ea4e.zappy5.app/products.json
+- Products (Google Merchant RSS): https://yono-3006ea4e.zappy5.app/product-feed.xml
