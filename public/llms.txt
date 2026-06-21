@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://yono-3006ea4e.zappy5.app
+https://example.com
 חנות בגדי ים אונליין לגברים ונשים עם מבחר סגנונות מעודכן. כנסו עכשיו לפתיחת חשבון yono sbi account opening קלה ומהירה וגלו קולקציה שלא תמצאו בשום מקום אחר.
 
 ### אודות
-https://yono-3006ea4e.zappy5.app/about
+https://example.com/about
 YONO הוא מותג בגדי ים דיגיטלי שמציע חוויית קנייה חכמה ללא מלאי. גלו איך yono sbi personal loan יכול לעזור לכם לממש את הסגנון המושלם ולהצטרף למהפכת האופנה שלנו.
 
 ### גלריית מערכת
-https://yono-3006ea4e.zappy5.app/editorial-gallery
+https://example.com/editorial-gallery
 גלריית מערכת בלעדית עם השראות סטיילינג לחוף הים. הורידו yono sbi download כדי לקבל גישה מיידית למראות הכי עדכניים ולבחור את הלוק שיהפוך אתכם לכוכבי החוף.
 
 ### צור קשר
-https://yono-3006ea4e.zappy5.app/contact
+https://example.com/contact
 צריכים עזרה בבחירת בגד הים המושלם? צרו קשר עכשיו וגלו איך yono sbi account opening online פותח לכם דלת לעולם של סטייל, נוחות ושירות ללא תחרות.
 
 ### Products
-https://yono-3006ea4e.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - YONO
 
 ### Cart
-https://yono-3006ea4e.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://yono-3006ea4e.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://yono-3006ea4e.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://yono-3006ea4e.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://yono-3006ea4e.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://yono-3006ea4e.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - YONO
 
 ### Category
-https://yono-3006ea4e.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - YONO
 
 ### תודה רבה | YONO
-https://yono-3006ea4e.zappy5.app/thank-you
+https://example.com/thank-you
 תודה על פנייתך. קיבלנו את הודעתך ונחזור אליך בהקדם. למידע נוסף על yono sbi account opening המשיכו לגלוש באתר.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://yono-3006ea4e.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://yono-3006ea4e.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://yono-3006ea4e.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -98,8 +98,8 @@ E-commerce / Fashion / Swimwear
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://yono-3006ea4e.zappy5.app/sitemap.xml
-- Robots: https://yono-3006ea4e.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://yono-3006ea4e.zappy5.app/llms-full.txt
-- Products (JSON): https://yono-3006ea4e.zappy5.app/products.json
-- Products (Google Merchant RSS): https://yono-3006ea4e.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
